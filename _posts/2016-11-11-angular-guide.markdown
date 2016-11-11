@@ -2,7 +2,7 @@
 layout:     post
 title:      "AngularJS 스타일 가이드 소개"
 date:       2016-11-11 00:00:00
-categories: reference
+categories: tech
 summary:    이 글은 Francesco Iovine의 An Introduction to AngularJS Style Guides를 한국어로 번역한 것입니다.
 ---
 
